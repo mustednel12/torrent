@@ -5,10 +5,10 @@ on:
       - ".github/workflows/torrent.yml"
       
 env:
-  name: "SkgCcklrS2B7"
-  comment: "SkgCcklrS2B7"
-  url: "https://file2links.trojanzhex.workers.dev/0:/TroJanzHEX/slckvd_3793.mp4"
-  file_name: "SkgCcklrS2B7.mp4"
+  name: "Knsn9"
+  comment: "Knsn9"
+  url: "https://xirhbatnpjb6bvyuxqz63.ctmp.space/files/8/hndfkvjvnm1vug/70735.mkv"
+  file_name: "Knsn9.mkv"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
