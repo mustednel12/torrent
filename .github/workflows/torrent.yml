@@ -5,10 +5,10 @@ on:
       - ".github/workflows/torrent.yml"
       
 env:
-  name: "Hic1"
-  comment: "Hic1"
-  url: "https://telegramfiles.herokuapp.com/download/8177193982/videoplayback.mp4"
-  file_name: "Hic1.mp4"
+  name: "Knsn9.1080"
+  comment: "Knsn91080"
+  url: "https://www2186.ff-05.com/token=86-1y3IvQO1XrorTmQOKHA/1613933679/95.70.0.0/150/5/02/c20d1cff6075f35ed5cf1dd82a1ba025-1080p.mp4"
+  file_name: "Knsn91080.mp4"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
