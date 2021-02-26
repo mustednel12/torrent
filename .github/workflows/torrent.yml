@@ -5,10 +5,10 @@ on:
       - ".github/workflows/torrent.yml"
       
 env:
-  name: "Knsn9.1080"
-  comment: "Knsn91080"
-  url: "https://g96atv.dood.video/u5kj7z6f33hfecoge74gsyymiws5vku5hjtznhj5wypxblet36m7huphdcsa/3p4pb6f565~NcuflEUsyn?token=899ixhze2hrdsc52ku4y3sy1&expiry=1613919621533"
-  file_name: "Knsn91080.mp4"
+  name: "Knsn10"
+  comment: "Knsn10"
+  url: "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-JXD1pkwRZ9Go44lbCQPrO5BGtY4vf7lgAL9WWtmGH7KaPRMSVeqNmg1iGZQzRGNuJOfKpl4w3zcxwcGUlAGTl8gxyRxFPt9YEaRqPmN3gt9kfSQEmMVNPF3hHexu3k6e7AJ4XR3V6_kbOKBXrzJ7AGD62m96FRKu-VezSaveJ6j_chsMRDAk7v2FpvKosc6ajOaqOEtYbvOsYWpVdayN_6pzbA4oE77C5y19kkys1e2Zjcv8K97HXd5HsnOID07V9bNsQcv0puHUpmdSir85A6S9kL-65wFyoc0MbojD49JqoyMB1BKE5/5bc56ddf81a38/3e46b0c2b6d5a3fb4f60cfc62a45e5b4cb09fb9c30b8528b7dd47ee85ee22cef/master-playlist.m3u8?from=disk&vsid=3cdecc4124e9de21721abde8cd20afd6bb5731b7952axWEBx5946x1614369734&adsid=ff3beeff87ed8abb7599db334b5c8bceeb8a91ea6cf9xWEBx5946x1614369734&audio_mbr=1"
+  file_name: "Knsn10.mp4"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
